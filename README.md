@@ -25,13 +25,19 @@ Start it Today >>>>>>
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Junru281/Leetcode-91/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Junru281/Leetcode-91/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Junru281/Leetcode-91/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Junru281/Leetcode-91/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Junru281/Leetcode-91/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Junru281/Leetcode-91/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
